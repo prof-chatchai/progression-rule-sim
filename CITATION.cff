@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Simulation code for a go, adapt or stop progression rule in a small clustered feasibility study"
+version: 1.0.0
+date-released: 2026-11-24
+license: MIT
+authors:
+  - {family-names: Phanthong, given-names: Chaowarit}
+  - {family-names: Youngrattana, given-names: Suraphol}
+  - {family-names: Pungrat, given-names: Jarupan}
+  - {family-names: Tritham, given-names: Chattabhorn}
+  - {family-names: Tritham, given-names: Chatchai}
+abstract: "Python/NumPy simulations of a pre-specified go, adapt or stop decision rule (80% Wilson intervals widened by a leave-one-school-out check) for 27 teachers in nine schools, with comparisons against eight standard interval methods. Simulated data only; no human data."

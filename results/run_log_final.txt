@@ -1,0 +1,7 @@
+A rho 0.1 46 s
+A rho 0.2 95 s
+A rho 0.3 137 s
+B done 166 s
+C done 192 s
+D done 223 s
+wrote D:\AVS\Research\Proposal\MCRU-Province\_PAPER\sim\results_final_decisions.csv D:\AVS\Research\Proposal\MCRU-Province\_PAPER\sim\results_final_coverage80.csv

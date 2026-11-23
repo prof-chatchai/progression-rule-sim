@@ -1,0 +1,21 @@
+{
+ "R": 10000,
+ "seeds": 10,
+ "B": 500,
+ "numpy": "2.4.6",
+ "scipy": "1.17.1",
+ "python": "3.11.15",
+ "icc_recovery": 0.216,
+ "seconds": 263,
+ "methods": [
+  "M0_point",
+  "M1_wilson",
+  "M2_registered",
+  "M3_deff_est",
+  "M3o_deff_true",
+  "M4_cluster_boot",
+  "M5_school_t",
+  "M6_clopper",
+  "M7_jeffreys"
+ ]
+}

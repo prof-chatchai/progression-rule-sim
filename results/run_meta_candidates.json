@@ -1,0 +1,58 @@
+{
+ "seed": 20261123,
+ "R": 1000,
+ "B": 400,
+ "numpy": "2.4.6",
+ "python": "3.11.15",
+ "seconds": 404,
+ "candidates": {
+  "C0_proposal": {
+   "level": 0.95,
+   "go_del": 0.7,
+   "go_par": 0.75,
+   "loo": true
+  },
+  "C1_go60_95": {
+   "level": 0.95,
+   "go_del": 0.6,
+   "go_par": 0.65,
+   "loo": true
+  },
+  "C2_ci90": {
+   "level": 0.9,
+   "go_del": 0.7,
+   "go_par": 0.75,
+   "loo": true
+  },
+  "C3_ci80": {
+   "level": 0.8,
+   "go_del": 0.7,
+   "go_par": 0.75,
+   "loo": true
+  },
+  "C4_go60_ci90": {
+   "level": 0.9,
+   "go_del": 0.6,
+   "go_par": 0.65,
+   "loo": true
+  },
+  "C5_go60_ci80": {
+   "level": 0.8,
+   "go_del": 0.6,
+   "go_par": 0.65,
+   "loo": true
+  },
+  "C6_ci80_noLOO": {
+   "level": 0.8,
+   "go_del": 0.7,
+   "go_par": 0.75,
+   "loo": false
+  },
+  "C7_go60_ci90_noLOO": {
+   "level": 0.9,
+   "go_del": 0.6,
+   "go_par": 0.65,
+   "loo": false
+  }
+ }
+}

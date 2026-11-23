@@ -1,0 +1,8 @@
+A n 18 79 s
+A n 27 170 s
+A n 36 272 s
+B_meets_go 312 s
+B_prep_too_high 345 s
+B_participation_low 376 s
+B_poor 404 s
+wrote D:\AVS\Research\Proposal\MCRU-Province\_PAPER\sim\results_candidates.csv

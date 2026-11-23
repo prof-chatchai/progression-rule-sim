@@ -1,0 +1,8 @@
+{
+  "title": "Simulation code for a go, adapt or stop progression rule in a small clustered feasibility study",
+  "upload_type": "software",
+  "description": "Python/NumPy simulations of a pre-specified go, adapt or stop decision rule (80% Wilson intervals widened by a leave-one-school-out check) for 27 teachers in nine schools, with comparisons against eight standard interval methods. Simulated data only; no human data. Result files and run metadata (seeds, versions) included.",
+  "creators": [{"name": "Phanthong, Chaowarit"}, {"name": "Youngrattana, Suraphol"}, {"name": "Pungrat, Jarupan"}, {"name": "Tritham, Chattabhorn"}, {"name": "Tritham, Chatchai"}],
+  "license": "MIT",
+  "keywords": ["feasibility study", "progression criteria", "clustered data", "simulation", "educational design research"]
+}

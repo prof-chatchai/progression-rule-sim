@@ -1,0 +1,9 @@
+unit tests passed; ANOVA ICC recovered 0.216
+grid icc 0.0 49 s
+grid icc 0.1 99 s
+grid icc 0.2 139 s
+grid icc 0.3 173 s
+grid icc 0.5 206 s
+B,C done 215 s
+seeds done 263 s
+wrote results_compare.csv, results_compare_seeds.csv, validation_exact.csv

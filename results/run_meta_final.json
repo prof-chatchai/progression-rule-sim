@@ -1,0 +1,10 @@
+{
+ "seed": 20261125,
+ "R": 1000,
+ "B": 300,
+ "numpy": "2.4.6",
+ "python": "3.11.15",
+ "seconds": 271,
+ "rule": "C5: 80% intervals, LOO widening, GO .60/.65, STOP upper<.50, prep GO<=3 STOP>6",
+ "n_delivering_teachers": 27
+}
